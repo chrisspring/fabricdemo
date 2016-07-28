@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1466105167770
+Build-Jdk: 1.7.0_60
+Built-By: 8540
+Bundle-ManifestVersion: 2
+Bundle-Name: A Camel Spring Route
+Bundle-SymbolicName: homeloan
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.50.0
